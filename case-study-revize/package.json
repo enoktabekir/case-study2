@@ -1,0 +1,21 @@
+{
+  "name": "case-study",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.37",
+    "vue-like-dislike-buttons": "^0.2.4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
+    "sass": "^1.54.9",
+    "vite": "^3.1.0"
+  }
+}
